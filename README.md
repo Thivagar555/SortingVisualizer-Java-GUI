@@ -22,7 +22,7 @@ Adjustable Speed: Users can control the speed of the sorting animation, enabling
 
 2. Clone the Repository: Clone the GitHub repository to your local machine using the following command:
 sh Copy code
-git clone https://github.com/Amandeepkaur1804/Sorting-Visualizer.git
+git clone https://github.com/Thivagar555/SortingVisualizer-Java-GUI.git
 
 3. Open the Project: Use an Integrated Development Environment (IDE) that supports Java to open the project.
 
@@ -44,16 +44,4 @@ I want you to know that contributions to this project are welcome and encouraged
 3. Make your changes and improvements to the code.
 4. Test your changes thoroughly.
 5. Create a pull request to merge your changes into the main repository.
-
-Array elements before sorting 
-![Screenshot (57)](https://github.com/Amandeepkaur1804/SortingVisualizer-/assets/107187322/178bbb5f-cf06-403f-9140-888a95d8c42e)
-
-Array elements while sorting 
-![Screenshot (58)](https://github.com/Amandeepkaur1804/SortingVisualizer-/assets/107187322/97809231-d50b-4cc4-b5bb-0dce19144925)
-
-Array elements after sorting 
-![Screenshot (59)](https://github.com/Amandeepkaur1804/SortingVisualizer-/assets/107187322/de003a42-56f0-47d6-9656-151df9e756b4)
-
-
-
 
